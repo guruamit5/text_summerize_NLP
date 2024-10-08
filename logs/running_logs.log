@@ -1,0 +1,55 @@
+[2024-10-09 00:26:55,363: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-09 00:26:55,367: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-09 00:26:55,368: INFO: common: created directory at: artifacts]
+[2024-10-09 00:26:55,369: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-10-09 00:26:59,054: INFO: 1434958058: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: CC82:19E4EF:155FE5:1A36CF:67058077
+Accept-Ranges: bytes
+Date: Tue, 08 Oct 2024 18:56:56 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10235-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1728413816.905916,VS0,VE694
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ce1e16ed88023f30d3dc6d5d6e3df4b37eafc4a7
+Expires: Tue, 08 Oct 2024 19:01:56 GMT
+Source-Age: 0
+
+]
+[2024-10-09 00:27:30,058: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-09 00:27:30,061: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-09 00:27:30,063: INFO: common: created directory at: artifacts]
+[2024-10-09 00:27:30,065: INFO: common: created directory at: artifacts/data_validation]
+[2024-10-09 00:28:07,677: INFO: config: PyTorch version 2.4.1 available.]
+[2024-10-09 00:28:24,128: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-09 00:28:24,131: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-09 00:28:24,132: INFO: common: created directory at: artifacts]
+[2024-10-09 00:28:24,134: INFO: common: created directory at: artifacts/data_transformation]
+[2024-10-09 00:29:46,195: INFO: config: PyTorch version 2.4.1 available.]
+[2024-10-09 00:29:46,411: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-09 00:29:46,415: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-09 00:29:46,416: INFO: common: created directory at: artifacts]
+[2024-10-09 00:29:46,497: INFO: common: created directory at: artifacts/model_trainer]
+[2024-10-09 00:45:44,662: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-09 00:45:44,794: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-09 00:45:44,819: INFO: common: created directory at: artifacts]
+[2024-10-09 00:45:44,821: INFO: common: created directory at: artifacts/model_trainer]
+[2024-10-09 00:50:17,353: INFO: config: PyTorch version 2.4.1 available.]
+[2024-10-09 00:59:13,542: INFO: config: PyTorch version 2.4.1 available.]
+[2024-10-09 00:59:14,456: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-10-09 00:59:14,479: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-10-09 00:59:14,480: INFO: common: created directory at: artifacts]
+[2024-10-09 00:59:14,482: INFO: common: created directory at: artifacts/model_trainer]
